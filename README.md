@@ -5,7 +5,7 @@ I am sunday programmer, most of the time I got no idea what I am doing :) ... on
 
 in this will be place I will share my code ... I am kind of building my own smarthouse systems and if somebody is doing something similar this code is helpful in any way then I am well happy :)
 
-Im also sunday miner and here I share my php script that monitors rewards and writes them in local sql db ... I am sure if you can understand my code you can fill in the caps of what kind of table you need and so on. *the first thing here :)*
+Im also sunday miner and here I share my php script that monitors rewards in ezil mining pool (through public api) and writes them in local sql db ... I am sure if you can understand my code you can fill in the caps of what kind of table you need and so on. *the first thing here :)*
 
 <!---
 StonieTorchMalony/StonieTorchMalony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
