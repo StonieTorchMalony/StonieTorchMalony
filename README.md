@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Stonie 'Torch' Malony
-- 📫 you can reach me on facebook https://www.facebook.com/StonieMalony
 
 I am sunday programmer, most of the time I got no idea what I am doing :) ... on normal time I am working in contruction site, this is what happens if you are in place where you have to choose a path for your life and you choose path less traveled :) now I just got no idea where Im at or why :) 
 
